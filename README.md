@@ -1,2 +1,2 @@
-Simple cards with some js
+Simple cards with some js.
 Thx Vladilen
